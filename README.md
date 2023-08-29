@@ -18,9 +18,9 @@ Conclusion and Recommendation
 
 #Libraries Used
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
-StatsModel
-Sklearn
+Numpy,
+Pandas,
+Matplotlib,
+Seaborn,
+StatsModel,
+Sklearn.
